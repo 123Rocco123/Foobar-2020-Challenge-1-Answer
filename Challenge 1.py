@@ -18,5 +18,7 @@ def solution(area):
             ints.append(1)
     return ints
 
-for x in range(5):
-    print(x, solution(x))
+
+#Your answers will be considered incorrect if you have a print function or input function in your code. Use it ONLY to debug your code.
+#for x in range(5):
+    #print(x, solution(x))
